@@ -1,0 +1,9 @@
+.cajamovies{
+    display: inline-block;
+}
+.card-img-top{
+    height: 300px;
+}
+.card-body{
+    height: 200px;
+}
