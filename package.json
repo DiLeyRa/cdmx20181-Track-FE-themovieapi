@@ -1,0 +1,23 @@
+{
+  "name": "cdmx20181-Track-FE-themovieapi",
+  "version": "1.0.0",
+  "description": "Has decidido entrar a una startup que se relaciona con la industria cinematográfica. Tienes una entrevista técnica en dos días y por ello, decides \r crear un blog para reforzar tu portafolio enfocado a este sector.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiLeyRa/cdmx20181-Track-FE-themovieapi.git"
+  },
+  "keywords": [],
+  "author": "Diana-Cristal-Leyva-Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiLeyRa/cdmx20181-Track-FE-themovieapi/issues"
+  },
+  "homepage": "https://github.com/DiLeyRa/cdmx20181-Track-FE-themovieapi#readme"
+}
