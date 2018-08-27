@@ -8,7 +8,7 @@ let btnExtras = document.getElementById('btnExtras');
 
 
 const getMovies = (search) => {
-    const url = 'http://www.omdbapi.com/?apikey=ae26bf8e&s=' + search;
+    const url = 'https://www.omdbapi.com/?apikey=ae26bf8e&s=' + search;
     fetch(url)
         .then((response) => response.json())
         .then((data) => {
