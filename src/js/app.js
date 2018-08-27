@@ -1,3 +1,6 @@
+initializeFirebase();
+initializeGoogle();
+
 let content = document.getElementById('contenido');
 let btnAvengers = document.getElementById('btnAvengers');
 let btnHarry = document.getElementById('btnHarry');
@@ -35,7 +38,7 @@ const getMovies = (search) => {
         </button>
       </div>
       <div class="modal-body">
-      <img src="${data.Search[i].Poster}" alt="" width="100" height="100">
+      <img src="${data.Search[i].Poster}" alt="" width="200" height="300">
         <p></p>
         <p>Tipo: ${data.Search[i].Type}</p>
         <p>Año: ${data.Search[i].Year}</p>

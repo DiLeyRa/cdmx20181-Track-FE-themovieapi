@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/DiLeyRa/cdmx20181-Track-FE-themovieapi/issues"
   },
-  "homepage": "https://github.com/DiLeyRa/cdmx20181-Track-FE-themovieapi#readme"
+  "homepage": "https://github.com/DiLeyRa/cdmx20181-Track-FE-themovieapi#readme",
+  "dependencies": {
+    "sweetalert": "^2.1.0"
+  }
 }
