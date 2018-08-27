@@ -1,5 +1,11 @@
 # Caso de estudio: API Movies
 
+## Instalación
+La App Peliculas sera de gran ayuda para que el usuario visualizar un catálogo de peliculas como (Avengers, Harry Potter y otras), donde se muestra una descripción como el año que se estreno la pelicula, el titulo y el poster.
+
+Para poder interactuar con la App es necesario acceder al siguiente [link](https://dileyra.github.io/cdmx20181-Track-FE-themovieapi/src/), se mostrara una interfaz donde se mostraran tres opciones de nuestro catálogo, y al darle click se visualizaran varias trajetas con información sobre cada pelicula, además de estó puedes dar click en el boton de +detalles, por si deseas consultar más informacíon sobre la pelicula.
+En la parte superior derecha nos mostrara un boton donde nos podremos loguear con Google, para poder unirte a la comunidad.
+
 ## Descripción
 
 Has decidido entrar a una startup que se relaciona con la industria cinematográfica. Tienes una entrevista técnica en dos días y por ello, decides 
